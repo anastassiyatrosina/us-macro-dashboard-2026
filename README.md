@@ -2,7 +2,7 @@
 
 An interactive, single-file dashboard tracking the U.S. business cycle through the 2026 energy-price shock: inflation, the Fed's policy path, GDP, manufacturing activity, oil prices and consumer sentiment — all sourced from primary government and survey data.
 
-**[View the live dashboard →](https://anastassiyatrosina.github.io/us-macro-dashboard2026/)**
+**[View the live dashboard →](https://anastassiyatrosina.github.io/us-macro-dashboard-2026/)**
 
 ## Why this project
 
